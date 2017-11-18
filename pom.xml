@@ -11,6 +11,10 @@
     <modules>
         <module>strategy-pattern</module>
         <module>observer-pattern</module>
+        <module>decorator-pattern</module>
+        <module>singleton-pattern</module>
+        <module>factory-pattern</module>
+        <module>command-pattern</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
